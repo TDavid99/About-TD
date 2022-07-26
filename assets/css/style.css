@@ -23,7 +23,7 @@ nav{
 }
 
 header h2 {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 15px;
     color: rgb(243,242, 219)
 }
@@ -54,10 +54,10 @@ header a {
     align-items: flex-end;
    }
 header a{
-    text-decoration:none
+    text-decoration:none;
     display: flex;width: min-content;
     font-size: 24px;
-    font-family: 'Times New Roman', Times, serif.
+    font-family: 'Times New Roman', Times, serif;
     margin-bottom: 35;
     color: #ceb40c
     
@@ -65,4 +65,11 @@ header a{
 .footer{
     font-style: italic;
     color: #3d2e01;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    ; color: rgb(230, 209, 23);
+}
+footer{
+    color: #ceb40c;
 }
